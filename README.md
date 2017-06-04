@@ -1,4 +1,8 @@
 # Browzwear Lotta to .blend file
+*this is a non-official modification*
+
+
+*If in doubt - consult your Browzwear support contact.*
 ## What is this?
 Essentially this script is untouched and only 3 lines are affected from the deafualt installation of Browzwear (BW) products.
 By default this script is kicked in by BW after the user used rendering with raytrace. 
